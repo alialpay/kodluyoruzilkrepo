@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![GitHub](https://github.com/alialpay/kodluyoruzilkrepo/blob/main/figures/image.png)
+![GitHub](https://github.com/alialpay/kodluyoruzilkrepo/blob/main/image/image.png)
 
 ## Installation
 
